@@ -1,5 +1,5 @@
 {
-  "name" : "SilexFriends/Cloudinary",
+  "name" : "silexfriends/cloudinary",
   "description" : "Silex Cloudinary Provider",
   "license" : "GPLv3",
   "type": "library",

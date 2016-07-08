@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9190661dfb97c01e63bf9241c2a6d531",
-    "content-hash": "7840f3adddb1af8e0e699fc29c54df3d",
+    "hash": "7cb11b5358a4ed50e5cbe9e9d9cca6db",
+    "content-hash": "96adb14d9d2905ae758e2542380d3867",
     "packages": [
         {
             "name": "cloudinary/cloudinary_php",
