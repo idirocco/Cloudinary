@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace MrPrompt\Silex;
+namespace SilexFriends\Cloudinary;
 
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 

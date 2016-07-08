@@ -1,7 +1,7 @@
 <?php
-namespace MrPrompt\Silex\Tests;
+namespace SilexFriends\Tests;
 
-use MrPrompt\Silex\Cloudinary;
+use SilexFriends\Cloudinary\Cloudinary;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 use Symfony\Component\HttpFoundation\File\UploadedFile;

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace MrPrompt\Silex;
+namespace SilexFriends\Cloudinary;
 
 use Cloudinary as Driver;
 use Cloudinary\Uploader;

@@ -1,16 +1,16 @@
 {
-  "name" : "mrprompt/silex-cloudinary",
+  "name" : "SilexFriends/Cloudinary",
   "description" : "Silex Cloudinary Provider",
   "license" : "GPLv3",
   "type": "library",
   "autoload" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\": "src/"
+      "SilexFriends\\Cloudinary\\": "src/"
     }
   },
   "autoload-dev" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\Tests\\": "tests/"
+      "SilexFriends\\Tests\\Cloudinary\\": "tests/"
     }
   },
   "authors" : [
