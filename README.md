@@ -16,12 +16,8 @@ composer require mrprompt/silex-cloudinary
 ## Usage
 
 ```
-use SilexFriends\Cloudinary\Cloudinary;
+use SilexFriends\Cloudinary\Cloudinary as CloudinaryServiceProvider;
 
-...
-
-
-// Cloudinary Provider
 $app->register(
     new CloudinaryServiceProvider(
         $cloud_name,
