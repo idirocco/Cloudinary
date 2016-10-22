@@ -33,6 +33,7 @@
     "mockery/mockery": "dev-master@dev",
     "symfony/http-kernel": "~2.5",
     "symfony/browser-kit": "~2.5",
-    "symfony/filesystem": "~2.5"
+    "symfony/filesystem": "~2.5",
+    "codeclimate/php-test-reporter": "dev-master"
   }
 }
